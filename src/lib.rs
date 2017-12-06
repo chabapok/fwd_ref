@@ -53,6 +53,8 @@ mod tests {
         x: u8
     }
 
+//test test test
+
     impl Bar {
         fn do_some(&self) {
             println!("do_some");
