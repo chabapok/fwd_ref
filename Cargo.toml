@@ -1,0 +1,6 @@
+[package]
+name = "fwd_refs"
+version = "0.1.0"
+authors = ["Sasha <chabapok@gmail.com>"]
+
+[dependencies]
